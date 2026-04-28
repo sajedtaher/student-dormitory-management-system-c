@@ -1,6 +1,6 @@
 # Student Dormitory Management System (C)
 
-A console-based student dormitory management system developed in C.
+A console-based student dormitory management system developed in C as part of a university coursework project.
 
 ## Features
 
